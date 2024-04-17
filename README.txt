@@ -4,6 +4,7 @@ This script converts NEF format to TIFF format.
 3.Run the script.
 4.The TIFF output files will be located in the TIFF folder.
 When you already have files in your TIFF folder, the script will ask you to delete these files
+
 Requirements:
 ImageMagick
 Add ImageMagick to your environment variables.
